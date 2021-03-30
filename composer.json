@@ -1,0 +1,10 @@
+{
+
+  "require":
+  {
+
+    "planetteamspeak/ts3-php-framework": "^1.1"
+
+  }
+  
+}
