@@ -59,7 +59,7 @@ class main extends connection
 
             }
 
-            usleep(40000 - (microtime(true) - $frame_time_start));
+            usleep(41000  - (microtime(true) - $frame_time_start));
 
         }
 
